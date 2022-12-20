@@ -1,4 +1,4 @@
-# phone-number-locator
+# PHONE-NUMBER-LOCATOR
 Gives location of a mobile number by country.
 
 # INSTALLATION GUIDE:
