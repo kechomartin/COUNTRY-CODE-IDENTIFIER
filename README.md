@@ -2,4 +2,4 @@
 . SHOWS NETWORK SERVICE PROVIDER.
 
 ## INSTALLATION GUIDE:
- 1. Download the zip file/ clone the code into your project and run
+ > Download the zip file/clone the code into your project and run.
