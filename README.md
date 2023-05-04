@@ -1,5 +1,5 @@
 ## COUNTRY-CODE-IDENTIFIER
-. SHOWS NETWORK SERVICE PROVIDER.
+. Shows network service provider.
 
 ## INSTALLATION GUIDE:
  > Download the zip file/clone the code into your project and run.
